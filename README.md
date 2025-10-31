@@ -46,7 +46,8 @@
 - 🤖 Robotics & Automation
 - 🧠 Deep Learning & Neural Networks
 - 📷 Computer Vision & Object Detection
-- 🛜 Computer Networks 
+- 🛜 Computer Networks
+- 📱 App Development
 
 ## 📫 How to Reach Me
 - 📧 Email: [anshul.sekuri@gmail.com](mailto:anshul.sekuri@gmail.com)
